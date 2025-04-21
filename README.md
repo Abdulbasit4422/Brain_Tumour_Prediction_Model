@@ -1,5 +1,5 @@
 # Brain Tumor Prediction Model
-
+![Brain MRI Sample](https://github.com/Abdulbasit4422/Brain_Tumour_Prediction_Model/blob/main/images/Brain%20MRI%20Image.jpg?raw=true)
 <br><br>
 
 
