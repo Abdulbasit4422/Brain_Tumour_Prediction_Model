@@ -40,7 +40,7 @@ This project aims to:
 
 
 ## 📍 Notebook
- #### This Jupyter notebook containing some exploratory analysis, model training and evaluation can be found [Here](https://github.com/Ajisco/Breast-Tumor-Predictions-using-SVM/blob/master/Breast%20Tumor%20Predictions%20using%20SVM.ipynb) <br><br><br>
+ #### This Jupyter notebook containing some exploratory analysis, model training and evaluation can be found [Here](https://github.com/Abdulbasit4422/Brain_Tumour_Prediction_Model/blob/main/brain-tumour-prediction-model%20(1).ipynb) <br><br><br>
 
 ## ⚠ Limitations & Challenges
 1. Data Imbalance: Some tumor classes may have fewer samples, affecting model bias.<br>
